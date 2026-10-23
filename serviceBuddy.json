@@ -1,0 +1,10 @@
+{
+  "production": {
+    "minimumVersion": "1.0",
+    "recommendedVersion": "1.0"
+  },
+  "development": {
+    "minimumVersion": "1.0",
+    "recommendedVersion": "1.0"
+  }
+}
